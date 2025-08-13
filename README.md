@@ -1,4 +1,3 @@
-```markdown
 <!-- Header with animated gradient background -->
 <div align="center">
   <h1 align="center">
