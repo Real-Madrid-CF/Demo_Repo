@@ -53,8 +53,8 @@ function modernFeature() {
 <div align="center">
   
   <!-- GitHub stats cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakya&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakya&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages"/>
   
   <!-- Progress bar -->
   <div>
@@ -174,9 +174,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 For questions and feedback:
 
-- 📧 Email: your.email@example.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: routsakyasingh@gmail.com
+- 🐦 Twitter: [@routsakyasingh](https://twitter.com/yourhandle)
+- 💼 LinkedIn: [routsakyasingh](https://linkedin.com/in/yourprofile)
 
 ---
 
@@ -192,27 +192,3 @@ For questions and feedback:
   
 </div>
 ```
-
-## How to Use This Template
-
-1. Replace `yourusername` and `repository-name` with your actual GitHub username and repository name
-2. Update the project details, features, and installation instructions
-3. Replace placeholder images with actual screenshots of your project
-4. Customize the color scheme to match your project's branding
-5. Add your actual contact information
-
-## Features of This README
-
-- **Animated typing header** - Creates visual interest
-- **Badges and shields** - Professional appearance
-- **Responsive layout** - Looks good on all devices
-- **Code blocks** - For showing implementation examples
-- **Progress indicators** - Visual representation of project status
-- **Interactive elements** - Expandable sections for screenshots
-- **GitHub stats** - Dynamic project metrics
-- **Color palette display** - Shows design consistency
-- **Technology icons** - Clear visualization of tech stack
-- **Contribution graph** - Fun snake animation from actual contributions
-- **Back to top button** - Easy navigation
-
-This modern README will make your repository stand out and provide comprehensive information to visitors in an engaging way!
